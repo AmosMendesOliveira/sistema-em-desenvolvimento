@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/18 20:49:18.024,=C:\Users\Amós Corporativo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/18 20:51:44.684,C:\Users\Amós Corporativo\Desktop\Sistema-consulta\UnitTelaCadastrar.pas=C:\Users\Amós Corporativo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/18 20:51:44.684,C:\Users\Amós Corporativo\Desktop\Sistema-consulta\UnitTelaCadastrar.dfm=C:\Users\Amós Corporativo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/18 21:04:35.959,C:\Users\Amós Corporativo\Desktop\Sistema-consulta\ProjectTelaCadastrar.dproj=C:\Users\Amós Corporativo\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/07/18 21:14:40.814,=C:\Users\Amós Corporativo\Desktop\Sistema-consulta\Unit1.pas</Transaction>
+    <Transaction>2022/07/18 21:17:37.562,C:\Users\Amós Corporativo\Desktop\Sistema-consulta\DM_TelaCadastro.dfm=C:\Users\Amós Corporativo\Desktop\Sistema-consulta\Unit1.dfm</Transaction>
+    <Transaction>2022/07/18 21:17:37.562,C:\Users\Amós Corporativo\Desktop\Sistema-consulta\DM_TelaCadastro.pas=C:\Users\Amós Corporativo\Desktop\Sistema-consulta\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
